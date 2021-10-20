@@ -1,3 +1,8 @@
 from enum import Enum
 
-materialType = Enum('Titanium', 'Carbon')
+# vibranium is specific to Steve's car
+
+
+materialType = Enum('Titanium', 'Carbon', 'Vibranium')
+
+
