@@ -8,8 +8,7 @@ class MaterialManager:
         # other configurations
 
 
-      
-
+    
       def changeMaterial(self, material) -> bool:
 
         returnText = ""
