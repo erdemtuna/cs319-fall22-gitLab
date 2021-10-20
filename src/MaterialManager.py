@@ -32,4 +32,4 @@ class MaterialManager:
        print("Announcement of material type is failed.")
        returnValue = False
    finally:
-       return returnValue
+       return returnValue 
